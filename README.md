@@ -3,8 +3,8 @@ This is a machine learning project aimed at classifying celestial objects—**st
 
 ## Features
 - **Data Preprocessing**: Handling missing values, feature encoding, and outlier detection.
-- **Unsupervised Learning**: Using **K-Means clustering** to uncover intrinsic patterns.
-- **Supervised Learning**: Implementing and comparing multiple models:
+- **Unsupervised Learning**: Using **K-Means clustering** to uncover intrinsic patterns and augmenting the dataset.
+- **Supervised Learning**: Implementing and comparing multiple models for both supervised and augmented dataset:
   - Logistic Regression
   - Decision Trees
   - K-Nearest Neighbors (KNN)
@@ -16,6 +16,6 @@ This is a machine learning project aimed at classifying celestial objects—**st
 ## Installation
 Clone this repository and install the required dependencies:
 ```bash
-git clone https://github.com/yourusername/Ghostbusters.git
-cd Ghostbusters
+git clone https://github.com/yourusername/Classification_SDSS17.git
+cd Classification_SDSS17
 pip install -r requirements.txt
